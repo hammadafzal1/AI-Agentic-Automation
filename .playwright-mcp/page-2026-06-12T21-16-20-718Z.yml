@@ -1,0 +1,39 @@
+- generic [ref=e294]:
+  - generic [ref=e295]:
+    - generic [ref=e296]:
+      - generic [ref=e297]:
+        - generic [ref=e298]:
+          - button "Open Menu" [ref=e299] [cursor=pointer]
+          - img "Open Menu" [ref=e300]
+        - generic [ref=e302]: Swag Labs
+      - generic [ref=e306]: "Checkout: Overview"
+    - generic [ref=e308]:
+      - generic [ref=e309]:
+        - generic [ref=e310]: QTY
+        - generic [ref=e311]: Description
+      - generic [ref=e312]:
+        - generic [ref=e313]: "Payment Information:"
+        - generic [ref=e314]: "SauceCard #31337"
+        - generic [ref=e315]: "Shipping Information:"
+        - generic [ref=e316]: Free Pony Express Delivery!
+        - generic [ref=e317]: Price Total
+        - generic [ref=e318]: "Item total: $0"
+        - generic [ref=e319]: "Tax: $0.00"
+        - generic [ref=e320]: "Total: $0.00"
+        - generic [ref=e321]:
+          - button "Go back Cancel" [ref=e322] [cursor=pointer]:
+            - img "Go back" [ref=e323]
+            - text: Cancel
+          - button "Finish" [ref=e324] [cursor=pointer]
+  - contentinfo [ref=e325]:
+    - list [ref=e326]:
+      - listitem [ref=e327]:
+        - link "Twitter" [ref=e328] [cursor=pointer]:
+          - /url: https://twitter.com/saucelabs
+      - listitem [ref=e329]:
+        - link "Facebook" [ref=e330] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e331]:
+        - link "LinkedIn" [ref=e332] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e333]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy

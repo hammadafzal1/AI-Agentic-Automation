@@ -1,1 +1,2 @@
-# AI-Agentic-Automation
+# Implemented E2E AI-Agentic Test Automation Framework from scratch using Playwright AI Agents & MCP Servers. 
+# This framework performs complete web app E2E testing by starting from reading user stories to publishing the code to the GitHub Production Repo with just a single user's natural language prompt, with wiring a single line of code and human intervention. This framework helps you speed up the test automation process and make QA teams more focused on strategies than on daily repetitive testing tasks, so you achieve more test coverage in less time with no human error, with the power of AI. 
